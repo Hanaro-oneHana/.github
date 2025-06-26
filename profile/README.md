@@ -1,5 +1,9 @@
-![resized_image_smaller](https://github.com/user-attachments/assets/23f0ae4b-cabe-48aa-934c-e4822cf953b6)
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/23f0ae4b-cabe-48aa-934c-e4822cf953b6?raw=true"
+    alt="oneHana 프로젝트"
+  />
+</p>
 ## 💡 **프로젝트 소개**
 ** 예비 신혼 부부를 위한 결혼 준비 서비스** <br>
 
