@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/23f0ae4b-cabe-48aa-934c-e4822cf953b6?raw=true"
+    src="https://github.com/user-attachments/assets/cc87fb84-c98d-4ece-afbb-b68ffc9950f3?raw=true"
     alt="oneHana 프로젝트"
   />
 </p>
