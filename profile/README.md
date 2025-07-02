@@ -69,7 +69,7 @@
 
 
 ## 💡 **아키텍쳐**
-![image](https://github.com/user-attachments/assets/029b0ca3-b6b4-4847-811a-a8985aa303ba)
+![image](https://github.com/user-attachments/assets/5c8bfd83-5278-4db1-be48-c43b677456c7)
 
 <br>
 
